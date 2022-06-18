@@ -1,0 +1,7 @@
+Uygulamanın kaynak kodları EgoProj_nb klasörünün içerisinde mevcuttur.
+
+EgoProj_nb\dist dosyası içerisinde bulunan; 
+*jar dosyası ile uygulamayı açabilir,
+**bundles\EgoProj_nb-1.0.exe dosyası ile kurulumunu yapabilirsiniz.
+
+Veritabanı hatası için klasörde bulunan ego.backup dosyasını restore etmeniz gerekecektir.
